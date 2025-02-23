@@ -1,0 +1,16 @@
+.next/*
+node_modules/*
+build/*
+dist/*
+out/*
+*.js
+*.jsx
+*.ts
+*.tsx
+*.json
+*.md
+*.yaml
+*.yml
+*.ico
+*.sh
+*.tsbuildinfo
